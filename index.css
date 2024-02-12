@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(218, 180, 124);
+}
+.main-container{
+    background-color: rgb(80, 98, 101);
+    border-color: black;
+}
+.main-container h3{
+    margin-left: 10px;
+}
+.main-container p{
+    margin-left: 15px;
+}
+.link-container{
+    background-color: darkcyan;
+    border-color: black;
+}
