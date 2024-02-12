@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(218, 180, 124);
+    background-color: rgb(224, 212, 194);
 }
 .main-container{
-    background-color: rgb(80, 98, 101);
+    background-color: rgb(158, 182, 187);
     border-color: black;
 }
 .main-container h3{
@@ -12,6 +12,6 @@ body{
     margin-left: 15px;
 }
 .link-container{
-    background-color: darkcyan;
+    background-color: rgb(198, 209, 209);
     border-color: black;
 }
